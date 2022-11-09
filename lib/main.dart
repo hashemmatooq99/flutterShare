@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget{
 return  MaterialApp(
   title: 'Flutter Share',
   debugShowCheckedModeBanner: false,
-  home: Text('Hi'),
+  home: Text('Hello'),
 );
   }
 }
